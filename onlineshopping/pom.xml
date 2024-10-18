@@ -13,7 +13,6 @@
 		<javaee.version>7.0</javaee.version>
 		<spring.version>6.1.13</spring.version>
 		<spring.security.version>5.2.10.RELEASE</spring.security.version>
-		
 	</properties>
 
 	<dependencies>
